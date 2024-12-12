@@ -1,0 +1,4 @@
+Step 1: Set Up the Basics
+This script is a starting point for the Crypto/Stock Price Bot.
+Ensure you have the following libraries installed:
+pip install requests tweepy apscheduler
